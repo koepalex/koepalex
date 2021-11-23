@@ -2,10 +2,10 @@
 
 ### Hi fellow Devs 👋
 
-- 🔭 I’m currently working on [Azure Industrial IoT Platform](https://github.com/Azure/Industrial-IoT)
-- 🌱 I’m currently learning [dapr](https://github.com/dapr/dapr)
+- 🔭 I’m currently working on something with kubernetes
+- 🌱 I’m currently learning [rust](http://rustup.rs/)
 - 👯 I’m looking to collaborate on [code-searcher](https://github.com/koepalex/code-searcher)
-- 💬 Ask me about **software architecture** 🐱‍💻
+- 💬 Ask me about **software architecture** or **Industrial IoT** or **Manufacturing** 🐱‍💻
 - 📫 How to reach me: [twitter.com/koepalex](twitter.com/koepalex)
 - 😄 Pronouns: he/him/his
 
