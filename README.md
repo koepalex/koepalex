@@ -12,5 +12,10 @@
   - [devbox-setup](https://github.com/koepalex/devbox-setup/) - setup development and operation machines
   - [Yet Another Neovim Config](https://github.com/koepalex/yanec) - nvim configuration
 - 💬 Ask me about **OPC UA**, **MQTT**, **Software Architecture**, **Industrial IoT** or **Manufacturing** 
+- Selected open-source impact
+  - Extended NodeSet export in OPCFoundation/UA-.NETStandard
+  - Added SOCKS5 proxy support shipped in MQTTnet v5.2.0
+  - Built and maintained Crow’s NestMQTT
+  - Built OPC UA tools for exporting and validating industrial information models
 - How to reach me: [📧 this-is@alexander-koepke.de](mailto:this-is@alexander-koepke.de)
 
