@@ -1,6 +1,4 @@
-![koepalex GitHub stats](https://github-readme-stats.vercel.app/api?username=koepalex&show_icons=true&theme=yeblu)
-
-### Hi Folks
+I build platforms that connect industrial information models, cloud-edge systems, and AI agents. My current work transforms OPC UA companion specifications into manufacturing semantic graphs that agents can use for discovery, reasoning, and automation. My open-source work focuses on practical developer tooling for OPC UA, MQTT, and industrial interoperability.
 
 - I'm currently working on `Azure IoT Operations` and OPC UA
 - Focus projects:
@@ -18,4 +16,6 @@
   - Built and maintained Crow’s NestMQTT
   - Built OPC UA tools for exporting and validating industrial information models
 - How to reach me: [📧 this-is@alexander-koepke.de](mailto:this-is@alexander-koepke.de)
+
+![koepalex GitHub stats](https://github-readme-stats.vercel.app/api?username=koepalex&show_icons=true&theme=yeblu)
 
